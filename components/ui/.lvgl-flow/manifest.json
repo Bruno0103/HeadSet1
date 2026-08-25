@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "exportedAt": "2026-08-22T18:59:27.872Z",
+  "files": {
+    ".lvgl-flow/components/infobar.json": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/infobar/infobar.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/battery_body/battery_body.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/container/container.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/image/image.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/panel/panel.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/row/row.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/column/column.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/label/label.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "components/base/bar/bar.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "globals.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "images/index.json": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "images/music.png": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "images/bluetooth.png": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    "images/index_vectors.json": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    },
+    ".lvgl-flow/widget-names.json": {
+      "owner": "tool",
+      "exportedAt": "2026-08-22T18:59:27.872Z"
+    }
+  }
+}

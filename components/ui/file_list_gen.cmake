@@ -1,0 +1,19 @@
+list(
+  APPEND
+  LV_EDITOR_PROJECT_SOURCES
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/bar/bar_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/column/column_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/container/container_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/image/image_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/label/label_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/panel/panel_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/row/row_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/battery_body/battery_body_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/infobar/infobar_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/images/image_1_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/images/image_bluetooth_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/images/image_music_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/screens/preview_home_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/screens/screen1_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/ui_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/ui.c)

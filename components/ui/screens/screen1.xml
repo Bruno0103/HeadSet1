@@ -1,0 +1,14 @@
+<screen>
+	<view extends="lv_obj" width="100%">
+		<infobar name="infobar_1" width="100%" />
+		<panel name="panel_1" width="100%" y="16" height="144">
+			<screen_create_event
+				trigger="clicked"
+				anim_type="over_right"
+				screen="preview_home"
+				duration="1"
+				delay="1"
+			/>
+		</panel>
+	</view>
+</screen>

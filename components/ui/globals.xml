@@ -1,0 +1,108 @@
+<globals>
+	<api>
+		<!-- Add <enumdefs> here -->
+	</api>
+
+	<consts>
+		<!-- ────────────────── <lvgl-figma-flow begin="consts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<color name="const_baselib_accent_global" value="0x70609C" />
+		<int name="const_baselib_radius_global" value="8" />
+		<int name="const_baselib_unit_sm_global" value="4" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="consts"/> ──────────────────── -->
+		<!-- Add <px>, <int>, <color> etc here -->
+	</consts>
+
+	<subjects>
+		<!-- ───────────────── <lvgl-figma-flow begin="subjects"/> ──────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<int name="subject_battery_level" value="76" />
+		<string name="subject_consumo" value="42mA" />
+		<pointer name="subject_home_artAtual" value="image_1" />
+
+		<!-- ────────────────── <lvgl-figma-flow end="subjects"/> ─────────────────── -->
+		<!-- Add <int>, <string>, or <float> subjects here -->
+	</subjects>
+
+	<images>
+		<!-- ────────────────── <lvgl-figma-flow begin="images"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<data name="image_1" src_path="images/image_1.png" color_format="rgb565" />
+		<data name="image_music" src_path="images/music.png" color_format="rgb565a8" />
+		<data name="image_bluetooth" src_path="images/bluetooth.png" color_format="rgb565a8" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="images"/> ──────────────────── -->
+		<!-- Add <file> or <data> tags here -->
+	</images>
+
+	<fonts>
+		<!-- ─────────────────── <lvgl-figma-flow begin="fonts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<bin
+			name="font_cousine_regular_8"
+			size="8"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_cousine_bold_8"
+			size="8"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Bold.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_cousine_bold_10"
+			size="10"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_cousine_regular_7"
+			size="7"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_cousine_regular_9"
+			size="9"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_cousine_bold_9"
+			size="9"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Cousine-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+
+		<!-- ──────────────────── <lvgl-figma-flow end="fonts"/> ──────────────────── -->
+		<!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+	</fonts>
+
+	<styles>
+		<!-- ────────────────── <lvgl-figma-flow begin="styles"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<style name="style_screen_base_global" border_width="0" radius="0" shadow_width="0" shadow_opa="0" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="styles"/> ──────────────────── -->
+		<!-- Add <style> tags here -->
+	</styles>
+</globals>
